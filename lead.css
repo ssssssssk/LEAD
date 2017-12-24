@@ -5,7 +5,9 @@
 
 body {
     margin: 0;
-    background: #000; 
+    background: #000;
+    -webkit-text-size-adjust: 100%;
+    
 }
 video { 
     position: fixed;
